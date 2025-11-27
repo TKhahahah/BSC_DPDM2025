@@ -31,9 +31,12 @@ Graphs & Social Media and Information network✅
 | Classification | the separation of data elements in a collection into classes according to their predetermined functionalities and characteristics|
 | Cluster Analysis | similar data are grouped—or clustered—together under an unknown class label |
 |Outlier Analysis | helps understand data quality and using a data set with high outliers is not a wise option for finding patterns in the data or drawing any conclusions|
-|Time and Ordering:
-Sequential Pattern, Trend and Evolution Analysis | Businesses can predict the outcomes of any given occurrence, whether favourable or unfavourable, using linear regression models based on historical data to produce numerical forecasts |
-| Structure and
-Network Analysis | Graph mining, Information network analysis, Web mining |
+|Time and Ordering:Sequential Pattern, Trend and Evolution Analysis | Businesses can predict the outcomes of any given occurrence, whether favourable or unfavourable, using linear regression models based on historical data to produce numerical forecasts |
+| Structure and Network Analysis | Graph mining, Information network analysis, Web mining |
+
+
+Data Mining: Confluence of Multiple Disciplines 
+
+is blending methodologies from various fields to achieve the goal of extracting valuable knowledge and patterns from large datasets.
 
 
