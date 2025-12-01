@@ -6,6 +6,6 @@ Sasivimol Panuchote 663020040-8
 
 | Functions  | description |
 | ------------- | ------------- |
-| Intro 1 | |
+| Intro 1 | 01Intro.pdf |
 | Getting to know your data ||
 
